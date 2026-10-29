@@ -2,7 +2,6 @@ package Papers {
 
     private import ScalarValues::String;
     private import Personas::*;
-    private import SI::minute;
 
     part def Paper {
         doc /* A Paper during the conference */
