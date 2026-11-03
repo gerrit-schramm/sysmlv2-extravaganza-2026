@@ -88,7 +88,7 @@ package Personas {
         part :>> institution = vPathAI;
     }
 
-    part jasberBussemaker : Participant {
+    part jasperBussemaker : Participant {
         doc /* Jasber Bussemaker */
         attribute :>> name = "Jasber Bussemaker";
         part :>> institution = dlr;

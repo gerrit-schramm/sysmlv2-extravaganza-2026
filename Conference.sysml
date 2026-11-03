@@ -34,7 +34,7 @@ package Conference {
             vinceMolnar, 
             yvesBernard, 
             jeanMichelBruel, 
-            jasberBussemaker, 
+            jasperBussemaker, 
             bernhardRumpe, 
             hansPeterDeKoning
         );

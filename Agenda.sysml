@@ -80,7 +80,7 @@ package Agenda {
         attribute :>> title = "Git-based SysML v2: A First Look at User Experience and Automation Potential";
         attribute :>> duration = 45 [minute];
         part :>> paper = Papers::gitBasedSysMLv2;
-        ref :>> presenter = (jasberBussemaker);
+        ref :>> presenter = (jasperBussemaker);
     }
 
     action collaborativeModeling : Presentation {

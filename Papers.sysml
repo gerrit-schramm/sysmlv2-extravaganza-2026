@@ -31,7 +31,7 @@ package Papers {
 
     part gitBasedSysMLv2 : Paper {
         attribute :>> title = "Git-based SysML v2: A First Look at User Experience and Automation Potential";
-        ref :>> authors = (jasberBussemaker, carlosCabaleiro);
+        ref :>> authors = (jasperBussemaker, carlosCabaleiro);
     }
 
     part collaborativeModeling : Paper {
